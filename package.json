@@ -1,0 +1,17 @@
+{
+  "name": "electron-react-app2",
+  "productName": "Image-resizer-app",
+  "version": "1.0.0",
+  "description": "App that resize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nautro Kazenaki",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^27.0.3",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
